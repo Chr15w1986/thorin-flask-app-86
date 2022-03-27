@@ -1,0 +1,11 @@
+.col-md-5 img {
+    width: 100%;
+}
+
+.flashes {
+    font-size: 125%;
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: rgba(107, 105, 105, 0.5);
+    list-style-type: none;
+}
